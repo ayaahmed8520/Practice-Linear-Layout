@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">test_linearlayout</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="userImage">User Image</string>
+
+</resources>
